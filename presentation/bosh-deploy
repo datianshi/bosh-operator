@@ -1,0 +1,8 @@
+## Bosh deployments
+
+* Stemcell, release and manifest are parts of deployment
+* Bosh deploy steps
+> 1. Upload a stemcell
+> 2. Upload a release
+> 3. Set deployment with a manifest
+> 4. Deploy
